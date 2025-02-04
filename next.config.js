@@ -7,7 +7,6 @@ module.exports = {
   basePath: isProd ? '/umt-help-desk.github.io' : '',
   trailingSlash: true,
 };
-
+module.exports = nextConfig
 /**const nextConfig = {
 }*/
-module.exports = nextConfig
